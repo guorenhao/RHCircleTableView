@@ -2,7 +2,7 @@
 //  main.m
 //  RHCircleTableView
 //
-//  Created by 郭人豪 on 2018/1/19.
+//  Created by Abner_G on 2018/1/19.
 //  Copyright © 2018年 Abner_G. All rights reserved.
 //
 
