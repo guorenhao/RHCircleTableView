@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "RHCircleTableView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RHCircleTableView 是一款简单的实现围绕一个圆心在周围创建/添加view的控件。"
   s.homepage     = "https://github.com/guorenhao/RHCircleTableView"
   s.license      = "MIT"
